@@ -8,8 +8,7 @@
   min-height: 500px;
 
   .logo {
-    display: grid;
-    height: 2%;
+    display: block;
     padding: 8px 0;
 
     .img {
@@ -19,7 +18,7 @@
       height: 2%;
 
       &.sub-logo {
-        width: 10px;
+        width: 50px;
       }
     }
   }
